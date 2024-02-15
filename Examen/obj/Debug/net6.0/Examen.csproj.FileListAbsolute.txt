@@ -1,0 +1,14 @@
+C:\xampp\htdocs\Examen\Examen\Examen\bin\Debug\net6.0\Examen.exe
+C:\xampp\htdocs\Examen\Examen\Examen\bin\Debug\net6.0\Examen.deps.json
+C:\xampp\htdocs\Examen\Examen\Examen\bin\Debug\net6.0\Examen.runtimeconfig.json
+C:\xampp\htdocs\Examen\Examen\Examen\bin\Debug\net6.0\Examen.dll
+C:\xampp\htdocs\Examen\Examen\Examen\bin\Debug\net6.0\Examen.pdb
+C:\xampp\htdocs\Examen\Examen\Examen\obj\Debug\net6.0\Examen.GeneratedMSBuildEditorConfig.editorconfig
+C:\xampp\htdocs\Examen\Examen\Examen\obj\Debug\net6.0\Examen.AssemblyInfoInputs.cache
+C:\xampp\htdocs\Examen\Examen\Examen\obj\Debug\net6.0\Examen.AssemblyInfo.cs
+C:\xampp\htdocs\Examen\Examen\Examen\obj\Debug\net6.0\Examen.csproj.CoreCompileInputs.cache
+C:\xampp\htdocs\Examen\Examen\Examen\obj\Debug\net6.0\Examen.dll
+C:\xampp\htdocs\Examen\Examen\Examen\obj\Debug\net6.0\refint\Examen.dll
+C:\xampp\htdocs\Examen\Examen\Examen\obj\Debug\net6.0\Examen.pdb
+C:\xampp\htdocs\Examen\Examen\Examen\obj\Debug\net6.0\Examen.genruntimeconfig.cache
+C:\xampp\htdocs\Examen\Examen\Examen\obj\Debug\net6.0\ref\Examen.dll
